@@ -4,8 +4,7 @@ An unsupervised stemmer for Natural Language Processing Tasks on Hinglish Langua
 <div align="center">
 
 [![Build Status](https://img.shields.io/travis/dwyl/hits/master.svg?style=flat-square)](https://travis-ci.org/dwyl/hits)
-[![codecov.io](https://img.shields.io/codecov/c/github/dwyl/hits/master.svg?style=flat-square)](https://github.com/ashishgupta1350/Hindi-English-Code-Mixed-Stemmer)
-[![HitCount](http://hits.dwyl.io/dwyl/hits.svg)](https://github.com/ashishgupta1350/Hindi-English-Code-Mixed-Stemmer)
+[![ashishgupta1350](https://img.shields.io/codecov/c/github/dwyl/hits/master.svg?style=flat-square)](http://codecov.io/github/dwyl/hits?branch=master)
 [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat-square)](https://github.com/dwyl/hits/issues/74)
 
 <!-- Docs badge not working ... if you have time to help investigate, please do.
