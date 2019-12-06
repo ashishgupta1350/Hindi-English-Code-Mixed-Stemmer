@@ -1,5 +1,19 @@
 # Hindi-English-Code-Mixed-Stemmer
 An unsupervised stemmer for Natural Language Processing Tasks on Hinglish Language ( Hindi + English words )
+
+<div align="center">
+
+[![Build Status](https://img.shields.io/travis/dwyl/hits/master.svg?style=flat-square)](https://travis-ci.org/dwyl/hits)
+[![codecov.io](https://img.shields.io/codecov/c/github/dwyl/hits/master.svg?style=flat-square)](https://github.com/ashishgupta1350/Hindi-English-Code-Mixed-Stemmer)
+[![HitCount](http://hits.dwyl.io/dwyl/hits.svg)](https://github.com/ashishgupta1350/Hindi-English-Code-Mixed-Stemmer)
+[![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat-square)](https://github.com/dwyl/hits/issues/74)
+
+<!-- Docs badge not working ... if you have time to help investigate, please do.
+[![Inline docs](http://inch-ci.org/github/dwyl/hits.svg?style=flat-square)](http://inch-ci.org/github/dwyl/hits)
+-->
+
+</div>
+
 ### Requirements
 * Gensim
 * NLTK
