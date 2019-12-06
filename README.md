@@ -1,7 +1,7 @@
 # Hindi-English-Code-Mixed-Stemmer
 An unsupervised stemmer for Natural Language Processing Tasks on Hinglish Language ( Hindi + English words )
 
-<div align="center">
+<div align="left">
 
 [![Build Status](https://img.shields.io/travis/dwyl/hits/master.svg?style=flat-square)](https://travis-ci.org/dwyl/hits)
 [![ashishgupta1350](https://img.shields.io/codecov/c/github/dwyl/hits/master.svg?style=flat-square)](http://codecov.io/github/dwyl/hits?branch=master)
